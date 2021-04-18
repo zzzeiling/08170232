@@ -1,6 +1,6 @@
 # FinTech
 ## *關於我*
-#### * *Name:陳潔翎*
+#### * *Name:陳潔翎&nbsp;&nbsp; Circle*
 #### * *University : Soochow University*
 #### * *Department：Big Data Management*
 #### * *Student ID：08170232*

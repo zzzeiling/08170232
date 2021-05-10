@@ -16,4 +16,4 @@
 ---
 ## *進度回報*
 ### *第一次進度回報*&nbsp;&nbsp;&nbsp;[*PPT*](https://drive.google.com/file/d/1_ZgxCqjD__lHtsoNMSbMR1x1ZPUgKVWF/view)
-### *第二次進度回報*&nbsp;&nbsp;&nbsp;[*PPT*](https://docs.google.com/presentation/d/13QnzrCQGX_gIN-823IcXuepSIz-MwkUVVZGCWCI5vFk/edit#slide=id.p1)
+### *第二次進度回報*&nbsp;&nbsp;&nbsp;[*PPT*](https://drive.google.com/file/d/1MBJLSV7DR7zMfG3V5B2E9GALloaPVSoz/view)
